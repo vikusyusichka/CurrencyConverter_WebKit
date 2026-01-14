@@ -1,0 +1,41 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+xcuserdata/
+*.moc
+*.hmap
+*.ipa
+*.dSYM
+*.xccheckout
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/xcode/package.xcworkspace/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# User settings
+*.swp
+*.lock
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
